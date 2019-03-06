@@ -7,7 +7,7 @@ require 'koneksi.php';
 <html>
 <head>
 
-  <title><font color=red>MY BLOG</font></title>
+  <title><font color=red><u>MY BLOG</u></font></title>
 </head>
 
 <body>
